@@ -1,9 +1,21 @@
 using UnityEngine;
 
-namespace Assignment.StudentSolution
+namespace Assignment03.StudentSolution
 {
-    public class Sword
+    public class Sword : Weapon
     {
+        public int bladeLength;
 
+        public void Slash()
+        {
+        }
+
+        public override void Equip(Player player)
+        {
+        }
+
+        public override void DealDamage(Entity target)
+        {
+        }
     }
 }

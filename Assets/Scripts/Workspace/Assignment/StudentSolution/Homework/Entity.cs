@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Assignment.StudentSolution
+namespace Assignment03.StudentSolution
 {
     public class Entity
     {
